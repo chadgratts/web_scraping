@@ -39,3 +39,5 @@ for i in range(len(trs)): # ul is 0
                 pass
     namVal = dict(zip(names, values))
 
+for k, v in namVal.items():
+    print(k, v)
