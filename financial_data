@@ -1,0 +1,33 @@
+,symbol,metric,value
+0,MMM,Previous Close,154.00 
+1,MMM,Open,154.15 
+2,MMM,Bid,--
+3,MMM,Ask,154.00 x 100
+4,MMM,Day's Range,151.55 - 153.93 
+5,MMM,52 Week Range,121.98 - 164.15 
+6,MMM,Volume,"1,666,775 "
+7,MMM,Avg. Volume,"3,324,453 "
+8,MMM,Market Cap (intraday),81.535B 
+9,MMM,Beta (5Y Monthly),1.10
+10,MMM,PE Ratio (TTM),21.29 
+11,MMM,EPS (TTM),7.19 
+12,MMM,Earnings Date,"Jul 18, 2025"
+13,MMM,Forward Dividend & Yield,2.92 (1.91%)
+14,MMM,Ex-Dividend Date,"Aug 25, 2025"
+15,MMM,1y Target Est,161.62 
+16,AOS,Previous Close,73.96 
+17,AOS,Open,73.48 
+18,AOS,Bid,--
+19,AOS,Ask,--
+20,AOS,Day's Range,71.26 - 73.56 
+21,AOS,52 Week Range,58.83 - 92.06 
+22,AOS,Volume,"1,200,336 "
+23,AOS,Avg. Volume,"1,383,350 "
+24,AOS,Market Cap (intraday),10.089B 
+25,AOS,Beta (5Y Monthly),1.25
+26,AOS,PE Ratio (TTM),20.06 
+27,AOS,EPS (TTM),3.59 
+28,AOS,Earnings Date,"Oct 21, 2025"
+29,AOS,Forward Dividend & Yield,1.36 (1.89%)
+30,AOS,Ex-Dividend Date,"Jul 31, 2025"
+31,AOS,1y Target Est,79.83 
