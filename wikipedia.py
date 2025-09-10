@@ -22,5 +22,23 @@ for i, table in enumerate(tables):
         break
 
 
-print("\nFirst 500 companies:")
-print(sp500_table.head(500))
+print("\nFirst 10 companies:")
+print(sp500_table.head(10))
+
+################
+soup = BeautifulSoup(text, features="html.parser")
+tbody = soup.find_all("tbody")
+# print(tbody[0].contents[2].contents[1].contents[0].text)
+
+tickerSymbols = []
+for i in range(len(tbody[0].contents)):
+    if i > 2:
+        continue
+    if i % 2 != 0:
+        continue
+    symbol = tbody[0].contents[i].contents[1].contents[0].text
+    tickerSymbols.append(symbol)
+    if len(tickerSymbols) == 505:
+        break
+
+print(tickerSymbols)
